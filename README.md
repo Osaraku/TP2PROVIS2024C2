@@ -20,6 +20,7 @@ Selain itu, terdapat juga beberapa kontainer dan widget yang menampilkan menu pe
 - `Kebijakan Privasi`,
 - `Pusat Bantuan`,
 - `Keluar`.
+
 Setiap menu memiliki fungsi onTap yang akan mengarahkan pengguna ke halaman yang sesuai ketika menu tersebut ditekan.
 
 ## Dokumentasi
