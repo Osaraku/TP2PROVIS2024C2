@@ -12,6 +12,7 @@ Program ini merupakan program dart dengan framework flutter yang berisi tampilan
 - `Umur`,
 - `Tanggal lahir`,
 - `Golongan darah`.
+
 Terdapat juga tombol "Edit Biodata" yang akan mengarahkan pengguna ke halaman EditBiodataPage ketika ditekan yang memungkinkan pengguna mengedit biodata mereka.
 
 Selain itu, terdapat juga beberapa kontainer dan widget yang menampilkan menu pengaturan seperti: 
